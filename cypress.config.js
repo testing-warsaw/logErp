@@ -7,5 +7,7 @@ module.exports = defineConfig({
     },
        // baseUrl: 'https://waproanyqa.assecobs.pl/',
        baseUrl: 'https://qa-auth.assecobs.com/login?service=https://waproanyqa.assecobs.pl',
+       viewportHeight: 640,
+       viewportWidth: 1024,
   },
 });
